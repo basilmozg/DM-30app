@@ -2,9 +2,9 @@
   "site": [
     {
       "name": "Luxel",
-      "number of sectors": 2,
-      "number of groups": 4,
-      "number of devices": 16,
+      "Sectors": 2,
+      "Groups": 4,
+      "Devices": 16,
       "status": "unprovision",
       "Sectors": [
         {
