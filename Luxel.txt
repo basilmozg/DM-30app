@@ -1,0 +1,290 @@
+{
+  "site": [
+    {
+      "name": "Luxel",
+      "number of sectors": 2,
+      "number of groups": 4,
+      "number of devices": 16,
+      "status": "unprovision",
+      "Sectors": [
+        {
+          "name": "s0001",
+          "number of groups": 2,
+          "number of devices": 8,
+          "Groups": [
+            {
+              "name": "g0001",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123456789",
+                  "status": "unscanned"
+                }
+              ]
+            },
+            {
+              "name": "g0002",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123456789",
+                  "status": "unscanned"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "s0002",
+          "number of groups": 2,
+          "number of devices": 8,
+          "Groups": [
+            {
+              "name": "g0003",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123456789",
+                  "status": "unscanned"
+                }
+              ]
+            },
+            {
+              "name": "g0004",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123",
+                  "status": "unscanned"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ivan`s solarfarm",
+      "number of sectors": 2,
+      "number of groups": 4,
+      "number of devices": 16,
+      "status": "unprovision",
+      "Sectors": [
+        {
+          "name": "s0001",
+          "number of groups": 2,
+          "number of devices": 8,
+          "Groups": [
+            {
+              "name": "g0001",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123456789",
+                  "status": "unscanned"
+                }
+              ]
+            },
+            {
+              "name": "g0002",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123456789",
+                  "status": "unscanned"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "s0002",
+          "number of groups": 2,
+          "number of devices": 8,
+          "Groups": [
+            {
+              "name": "g0003",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123456789",
+                  "status": "unscanned"
+                }
+              ]
+            },
+            {
+              "name": "g0004",
+              "number of devices": 4,
+              "Devices": [
+                {
+                  "name": "DCIBMM",
+                  "number": 1,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 2,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 3,
+                  "id": "123456789",
+                  "status": "unscanned"
+                },
+                {
+                  "name": "SMM30",
+                  "number": 4,
+                  "id": "123",
+                  "status": "unscanned"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
