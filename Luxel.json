@@ -50,7 +50,7 @@
             {
               "name": "g0002",
               "devicesNumber": 4,
-              "status": "unprovision"
+              "status": "unprovision",
               "DeviceElement": 
               [
                 {
@@ -206,7 +206,7 @@
             {
               "name": "g0002",
               "devicesNumber": 4,
-              "status": "unprovision"
+              "status": "unprovision",
               "DeviceElement": 
               [
                 {
@@ -279,7 +279,7 @@
             {
               "name": "g0004",
               "devicesNumber": 4,
-              "status": "unprovision"
+              "status": "unprovision",
               "DeviceElement": 
               [
                 {
