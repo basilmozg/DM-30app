@@ -1,21 +1,26 @@
 {
-  "site": [
+  "SiteElement": [
     {
       "name": "Luxel",
-      "Sectors": 2,
-      "Groups": 4,
-      "Devices": 16,
+      "sectorsNumber": 2,
+      "groupsNumber": 4,
+      "devicesNumber": 16,
       "status": "unprovision",
-      "Sectors": [
+      "SectorElement": 
+      [
         {
           "name": "s0001",
-          "number of groups": 2,
-          "number of devices": 8,
-          "Groups": [
+          "groupsNumber": 2,
+          "devicesNumber": 8,
+          "status": "unprovision",
+          "GroupElement": 
+          [
             {
               "name": "g0001",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision",
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -25,7 +30,7 @@
                 {
                   "name": "SMM30",
                   "number": 2,
-                  "id": "123456789",
+                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
@@ -44,8 +49,10 @@
             },
             {
               "name": "g0002",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision"
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -75,14 +82,18 @@
           ]
         },
         {
-          "name": "s0002",
-          "number of groups": 2,
-          "number of devices": 8,
-          "Groups": [
+          "name": "s0001",
+          "groupsNumber": 2,
+          "devicesNumber": 8,
+          "status": "unprovision",
+          "GroupElement": 
+          [
             {
               "name": "g0003",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision",
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -111,8 +122,10 @@
             },
             {
               "name": "g0004",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision",
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -145,20 +158,25 @@
     },
     {
       "name": "Ivan`s solarfarm",
-      "number of sectors": 2,
-      "number of groups": 4,
-      "number of devices": 16,
+      "sectorsNumber": 2,
+      "groupsNumber": 4,
+      "devicesNumber": 16,
       "status": "unprovision",
-      "Sectors": [
+      "SectorElement": 
+      [
         {
           "name": "s0001",
-          "number of groups": 2,
-          "number of devices": 8,
-          "Groups": [
+          "groupsNumber": 2,
+          "devicesNumber": 8,
+          "status": "unprovision",
+          "GroupElement": 
+          [
             {
               "name": "g0001",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision",
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -187,8 +205,10 @@
             },
             {
               "name": "g0002",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision"
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -218,14 +238,18 @@
           ]
         },
         {
-          "name": "s0002",
-          "number of groups": 2,
-          "number of devices": 8,
-          "Groups": [
+          "name": "s0001",
+          "groupsNumber": 2,
+          "devicesNumber": 8,
+          "status": "unprovision",
+          "GroupElement": 
+          [
             {
               "name": "g0003",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision",
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
@@ -254,8 +278,10 @@
             },
             {
               "name": "g0004",
-              "number of devices": 4,
-              "Devices": [
+              "devicesNumber": 4,
+              "status": "unprovision"
+              "DeviceElement": 
+              [
                 {
                   "name": "DCIBMM",
                   "number": 1,
