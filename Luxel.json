@@ -23,25 +23,21 @@
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                    "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -55,25 +51,21 @@
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -82,7 +74,7 @@
           ]
         },
         {
-          "name": "s0001",
+          "name": "s0002",
           "groupsNumber": 2,
           "devicesNumber": 8,
           "status": "unprovision",
@@ -96,25 +88,21 @@
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -128,25 +116,21 @@
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123",
                   "status": "unscanned"
                 }
@@ -165,71 +149,63 @@
       "SectorElement": 
       [
         {
-          "name": "s0001",
+          "name": "s0003",
           "groupsNumber": 2,
           "devicesNumber": 8,
           "status": "unprovision",
           "GroupElement": 
           [
             {
-              "name": "g0001",
+              "name": "g0005",
               "devicesNumber": 4,
               "status": "unprovision",
               "DeviceElement": 
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123456789",
                   "status": "unscanned"
                 }
               ]
             },
             {
-              "name": "g0002",
+              "name": "g0006",
               "devicesNumber": 4,
               "status": "unprovision",
               "DeviceElement": 
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -238,71 +214,63 @@
           ]
         },
         {
-          "name": "s0001",
+          "name": "s0004",
           "groupsNumber": 2,
           "devicesNumber": 8,
           "status": "unprovision",
           "GroupElement": 
           [
             {
-              "name": "g0003",
+              "name": "g0007",
               "devicesNumber": 4,
               "status": "unprovision",
               "DeviceElement": 
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123456789",
                   "status": "unscanned"
                 }
               ]
             },
             {
-              "name": "g0004",
+              "name": "g0008",
               "devicesNumber": 4,
               "status": "unprovision",
               "DeviceElement": 
               [
                 {
                   "name": "DCIBMM",
-                  "number": 1,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 2,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 3,
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
                   "name": "SMM30",
-                  "number": 4,
                   "id": "123",
                   "status": "unscanned"
                 }
