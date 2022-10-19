@@ -27,17 +27,17 @@
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_1",
                    "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_2",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_3",
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -55,17 +55,17 @@
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_1",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_2",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_3",
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -87,22 +87,22 @@
               "DeviceElement": 
               [
                 {
-                  "name": "DCIBMM",
+                  "name": "DCBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_1",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_2",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_3",
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -120,17 +120,17 @@
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_1",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_2",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "SMM30_3",
                   "id": "123",
                   "status": "unscanned"
                 }
@@ -162,22 +162,22 @@
               "DeviceElement": 
               [
                 {
-                  "name": "DCIBMM",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -190,22 +190,22 @@
               "DeviceElement": 
               [
                 {
-                  "name": "DCIBMM",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -227,22 +227,22 @@
               "DeviceElement": 
               [
                 {
-                  "name": "DCIBMM",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 }
@@ -255,22 +255,22 @@
               "DeviceElement": 
               [
                 {
-                  "name": "DCIBMM",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123456789",
                   "status": "unscanned"
                 },
                 {
-                  "name": "SMM30",
+                  "name": "CBMM",
                   "id": "123",
                   "status": "unscanned"
                 }
