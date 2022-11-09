@@ -1,0 +1,553 @@
+{
+  "SiteElement": [
+    {
+      "name": "Luxel",
+      "totalSectorsNumber": 0,
+      "completeSectorsNumber": 0,
+      "totalGroupsNumber": 0,
+      "completeGroupsNumber": 0,
+      "totalDevicesNumber": 0,
+      "completeDevicesNumber": 0,
+      "completionPercentage": 0,
+      "status": "incomplete",
+      "SectorElement": 
+      [
+        {
+          "name": "s0001",
+          "totalGroupsNumber": 0,
+          "completeGroupsNumber": 0,
+          "totalDevicesNumber": 0,
+          "completeDevicesNumber": 0,
+          "completionPercentage": 0,
+          "status": "incomplete",
+          "GroupElement": 
+          [
+            {
+              "name": "g0001",
+              "totalDevicesNumber": 0,
+              "completeDevicesNumber": 0,
+              "completionPercentage": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "DCIBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete",
+                  "ExtendedParams":
+                  {
+                    "UartSpeed": "115200",
+                    "UartParity": "NONE",
+                    "UartStopBits": "1",
+                    "ModbusAddress": "64"
+                  }
+                },
+                {
+                  "name": "SMM30_1way",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_2ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_3ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            },
+            {
+              "name": "g0002",
+              "totalDevicesNumber": 0,
+              "completeDevicesNumber": 0,
+              "completionPercentage": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "DCIBMM_fullBLE",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete",
+                  "ExtendedParams":
+                  {
+                    "UartSpeed": "115200",
+                    "UartParity": "NONE",
+                    "UartStopBits": "1",
+                    "ModbusAddress": "65"
+                  }
+                },
+                {
+                  "name": "SMM30_1way",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_2ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_3ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "s0002",
+          "totalGroupsNumber": 0,
+          "completeGroupsNumber": 0,
+          "totalDevicesNumber": 0,
+          "completeDevicesNumber": 0,
+          "completionPercentage": 0,
+          "status": "incomplete",
+          "GroupElement": 
+          [
+            {
+              "name": "g0003",
+              "totalDevicesNumber": 0,
+              "completeDevicesNumber": 0,
+              "completionPercentage": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "DCIBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete",
+                  "ExtendedParams":
+                  {
+                    "UartSpeed": "115200",
+                    "UartParity": "NONE",
+                    "UartStopBits": "1",
+                    "ModbusAddress": "66"
+                  }
+                },
+                {
+                  "name": "SMM30_1way",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_2ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_3ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            },
+            {
+              "name": "g0004",
+              "totalDevicesNumber": 0,
+              "completeDevicesNumber": 0,
+              "completionPercentage": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "DCIBMM_fullBLE",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete",
+                  "ExtendedParams":
+                  {
+                    "UartSpeed": "115200",
+                    "UartParity": "NONE",
+                    "UartStopBits": "1",
+                    "ModbusAddress": "67"
+                  }
+                },
+                {
+                  "name": "SMM30_1way",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_2ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "SMM30_3ways",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ivan`s solarfarm",
+      "totalSectorsNumber": 0,
+      "completeSectorsNumber": 0,
+      "totalGroupsNumber": 0,
+      "completeGroupsNumber": 0,
+      "totalDevicesNumber": 0,
+      "completeDevicesNumber": 0,
+      "completionPercentage": 0,
+      "status": "incomplete",
+      "SectorElement": 
+      [
+        {
+          "name": "s0003",
+          "totalGroupsNumber": 0,
+          "completeGroupsNumber": 0,
+          "totalDevicesNumber": 0,
+          "completeDevicesNumber": 0,
+          "completionPercentage": 0,
+          "status": "incomplete",
+          "GroupElement": 
+          [
+            {
+              "name": "g0005",
+              "totalDevicesNumber": 0,
+              "completeDevicesNumber": 0,
+              "completionPercentage": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            },
+            {
+              "name": "g0006",
+              "totalDevicesNumber": 0,
+              "completeDevicesNumber": 0,
+              "completionPercentage": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "s0004",
+          "totalGroupsNumber": 0,
+          "completeGroupsNumber": 0,
+          "totalDevicesNumber": 0,
+          "completeDevicesNumber": 0,
+          "completionPercentage": 0,
+          "status": "incomplete",
+          "GroupElement": 
+          [
+            {
+              "name": "g0007",
+              "devicesNumber": 4,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            },
+            {
+              "name": "g0008",
+              "devicesNumber": 0,
+              "status": "incomplete",
+              "DeviceElement": 
+              [
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                },
+                {
+                  "name": "CBMM",
+                  "mac": "",
+                  "id": "",
+                  "place": "S04258",
+                  "Lat": "",
+                  "Long": "",
+                  "status": "incomplete"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
